@@ -1,7 +1,7 @@
-bastion_IP = 35.228.117.64 \
+bastion_IP = 35.228.117.64 
 someinternalhost_IP = 10.166.0.7
 
-testapp_IP = 35.236.181.42 \
+testapp_IP = 35.201.145.150 
 testapp_port = 9292
 
 #Создание instans reddit-app \
