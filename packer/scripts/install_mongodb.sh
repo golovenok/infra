@@ -7,4 +7,3 @@ apt update
 apt install mongodb-org -y
 systemctl start mongod
 systemctl enable mongod
- 

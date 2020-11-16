@@ -1,0 +1,5 @@
+{
+"var_project_id": "infra-12",
+"var_machine_type": "f1",
+"var_source_image_family": "ubuntu"
+}
