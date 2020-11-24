@@ -13,7 +13,7 @@ resource "google_compute_instance" "db" {
     access_config {}
     }
     metadata = {
-    ssh-keys = "saf:${file(var.public_key_path)}"
+    ssh-keys = "${var.user}:${file(var.public_key_path)}"
     }
 }
  
