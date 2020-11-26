@@ -11,6 +11,7 @@ variable public_key_path {
 
 variable disk_image {
   description = "Disk image"
+  default = ""
 }
 variable private_key_path {
 }
