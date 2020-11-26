@@ -21,5 +21,5 @@ module "db" {
 
 module "vcp" {
   source = "../modules/vcp"
-  source_ranges = ["0.0.0.0/0"]
+  source_ranges = ["5.159.104.39"]
 }
